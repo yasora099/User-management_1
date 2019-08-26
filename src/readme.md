@@ -3,3 +3,5 @@ README
 INSTALLATION
 
 REQUIREMENTS
+
+Hardware Requirements
