@@ -7,9 +7,11 @@
     <artifactId>user-management</artifactId>
     <version>1</version>
   </parent>
+
   <groupId>com.user-management</groupId>
   <artifactId>web</artifactId>
   <version>1</version>
+  <packaging>war</packaging>
   <name>web</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -25,5 +27,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
 
 </project>
