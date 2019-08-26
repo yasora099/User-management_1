@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d08f657-6e5c-4568-8d95-7d408f6e2d32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/src/main/java/com/user-management/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/com/user-management/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="2d08f657-6e5c-4568-8d95-7d408f6e2d32" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -224,12 +220,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566547736952</updated>
       <workItem from="1566547744154" duration="1969000" />
-      <workItem from="1566795092957" duration="1626000" />
+      <workItem from="1566795092957" duration="2188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3595000" />
+    <option name="totallyTimeSpent" value="4157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="85" y="24" width="1281" height="704" extended-state="0" />
